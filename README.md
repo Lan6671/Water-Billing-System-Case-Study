@@ -60,6 +60,9 @@ Business Value
 
 The dashboard provides management with a quick overview of customer billing, water consumption patterns, and revenue performance. It supports operational monitoring and decision-making through visual reporting and key performance indicators (KPIs).
 
+Dashboard Preview
+screenshots/water billing dashboard.png
+
 Author
 Rollan P. Garcia
 
