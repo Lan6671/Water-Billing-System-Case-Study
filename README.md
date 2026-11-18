@@ -45,6 +45,21 @@ Python
 SQLite
 Pandas
 Power BI
+
+Power BI Dashboard
+The project includes a Power BI dashboard designed for monitoring billing performance, revenue generation, customer consumption, and collection reporting.
+
+Dashboard Components
+Total Revenue KPI
+Total Customers KPI
+Average Billing KPI
+Customer Billing Analysis
+Water Consumption Analysis
+Customer Filter Selection
+Business Value
+
+The dashboard provides management with a quick overview of customer billing, water consumption patterns, and revenue performance. It supports operational monitoring and decision-making through visual reporting and key performance indicators (KPIs).
+
 Author
 Rollan P. Garcia
 
