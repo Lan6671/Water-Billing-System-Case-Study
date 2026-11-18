@@ -37,12 +37,10 @@ Customer Ledger
 Revenue Reports
 Technologies
 Original System
-
 Microsoft Access
 SQL Queries
 VBA
 Case Study Modernization
-
 Python
 SQLite
 Pandas
