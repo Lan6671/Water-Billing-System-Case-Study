@@ -63,6 +63,30 @@ The dashboard provides management with a quick overview of customer billing, wat
 Dashboard Preview
 Power BI dashboard screenshot available in the screenshots folder
 
+SQLite Database Modules
+The system was enhanced using SQLite as the primary database engine for managing customer records, meter readings, billing transactions, collection postings, and management reports.
+
+Implemented Modules
+Customer Master File
+Meter Reading Module
+Billing Generation Module
+Collection Posting Module
+Customer Ledger Module
+Collection Monitoring Report
+System Workflow
+Customer Master ↓ Meter Readings ↓ Billing Generation ↓ Collections ↓ Customer Ledger ↓ Collection Monitoring
+
+Project Achievements
+This case study demonstrates the modernization of a traditional utility billing system using:
+
+Python
+SQLite
+SQL Queries
+Pandas
+Excel Reporting
+Power BI Dashboard
+The project simulates a real-world Water Billing and Collection System capable of managing customer accounts, meter readings, billing transactions, payment collections, customer ledgers, and management reporting.
+
 Author
 Rollan P. Garcia
 
