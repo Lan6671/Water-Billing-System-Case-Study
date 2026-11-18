@@ -1,0 +1,34 @@
+Database Design
+Customer Table
+Field
+customer_id
+customer_name
+address
+meter_no
+classification
+status
+Meter Reading Table
+Field
+reading_id
+customer_id
+reading_date
+previous_reading
+current_reading
+consumption
+Billing Table
+Field
+bill_id
+customer_id
+billing_month
+consumption
+amount_due
+due_date
+bill_status
+Collection Table
+Field
+collection_id
+bill_id
+or_no
+payment_date
+amount_paid
+collector
